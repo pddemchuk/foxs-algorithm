@@ -7,5 +7,5 @@ This is an implementation of the Fox algorithm in C language using MPI library.
 Run:
 
 ```
-$ ./run.sh <matrix_size> <number_of_processes>
+$ cd src && ./run.sh <matrix_size> <number_of_processes>
 ```
